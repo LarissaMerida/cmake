@@ -1,3 +1,0 @@
-/home/larissa/Documentos/div/hello/CMakeFiles/rebuild_cache.dir
-/home/larissa/Documentos/div/hello/CMakeFiles/hello.dir
-/home/larissa/Documentos/div/hello/CMakeFiles/edit_cache.dir
