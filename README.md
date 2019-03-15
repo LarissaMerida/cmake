@@ -11,13 +11,17 @@
       - cria o arquivo Makefile</br>
       - Digite make no cmd</br>
       - ./test</br></br>
-  - Referências:  https://medium.com/coding-blocks/make-and-cmake-automating-c-build-process-900f569a75db</br></br></br>
   
-  - *Gerar Makefile com 1 arquivo:* </br>
+  - *Gerar Makefile com 1 arquivo em exemplo 3:* </br>
       - Cria arquivo CMakeList.txt</br>
       - Digita cmake . no cmd</br>
       - Gera arquivos , entre eles Makefile</br>
       - Digita make no cmd</br>
+      - Digita ./hello no cmd</br>
+  
+        
+  - Referências: 
+      - https://medium.com/coding-blocks/make-and-cmake-automating-c-build-process-900f569a75db</br></br></br>
   
    
 
