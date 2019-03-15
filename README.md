@@ -9,7 +9,7 @@
       - ./test</br>
      
    </br></br>
-   - *Compilar com make: *</br>
+   - *Compilar com make:*</br>
       - cria o arquivo Makefile</br>
       - Digite make no cmd</br>
       - ./test</br>
