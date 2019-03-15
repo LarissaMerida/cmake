@@ -1,0 +1,3 @@
+/home/larissa/Documentos/div/ex4/build/CMakeFiles/rebuild_cache.dir
+/home/larissa/Documentos/div/ex4/build/CMakeFiles/mensagem.dir
+/home/larissa/Documentos/div/ex4/build/CMakeFiles/edit_cache.dir

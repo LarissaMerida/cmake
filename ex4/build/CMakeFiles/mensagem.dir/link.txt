@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/mensagem.dir/src/Mensagem.cpp.o CMakeFiles/mensagem.dir/src/main.cpp.o  -o mensagem 

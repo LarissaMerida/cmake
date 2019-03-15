@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/Mensagem.h
+string
+-
+
+/home/larissa/Documentos/div/ex4/src/Mensagem.cpp
+iostream
+-
+Mensagem.h
+/home/larissa/Documentos/div/ex4/src/Mensagem.h
+
+/home/larissa/Documentos/div/ex4/src/main.cpp
+Mensagem.h
+/home/larissa/Documentos/div/ex4/src/Mensagem.h
+
