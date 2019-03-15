@@ -19,7 +19,7 @@
       - Digita make no cmd</br>
       - Digita ./hello no cmd</br></br>
     
-   - **Gerar Makefile com +1 arquivos em exemplo 4:* </br>
+   - **Gerar Makefile com +1 arquivos em exemplo 4:** </br>
       - Cria arquivo CMakeList.txt</br>
       - Digita mkdir build</br>
       - cd build</br>
@@ -28,7 +28,7 @@
       - ./mensagem
   
         
-  - **Referências:* </br>
+  - **Referências:** </br>
       - https://medium.com/coding-blocks/make-and-cmake-automating-c-build-process-900f569a75db</br>
       - https://vndmtrx.com/2017/04/13/introducao-cmake.html
   
