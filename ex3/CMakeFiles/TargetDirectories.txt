@@ -1,0 +1,3 @@
+/home/larissa/Documentos/git/training-c/ex3/CMakeFiles/rebuild_cache.dir
+/home/larissa/Documentos/git/training-c/ex3/CMakeFiles/hello.dir
+/home/larissa/Documentos/git/training-c/ex3/CMakeFiles/edit_cache.dir
