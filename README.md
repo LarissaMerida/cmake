@@ -10,9 +10,8 @@
   - *Compilar com make:*</br>
       - cria o arquivo Makefile</br>
       - Digite make no cmd</br>
-      - ./test</br>
-   </br>
-   - Referências:  https://medium.com/coding-blocks/make-and-cmake-automating-c-build-process-900f569a75db
+      - ./test</br></br>
+  - Referências:  https://medium.com/coding-blocks/make-and-cmake-automating-c-build-process-900f569a75db
    
 
   
